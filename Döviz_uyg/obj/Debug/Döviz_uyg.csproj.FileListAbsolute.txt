@@ -1,0 +1,20 @@
+C:\Users\SeFiK\Desktop\c# ve sql\Projeler\Döviz_uyg\Döviz_uyg\bin\Debug\Döviz_uyg.exe.config
+C:\Users\SeFiK\Desktop\c# ve sql\Projeler\Döviz_uyg\Döviz_uyg\bin\Debug\Döviz_uyg.exe
+C:\Users\SeFiK\Desktop\c# ve sql\Projeler\Döviz_uyg\Döviz_uyg\bin\Debug\Döviz_uyg.pdb
+C:\Users\SeFiK\Desktop\c# ve sql\Projeler\Döviz_uyg\Döviz_uyg\obj\Debug\Döviz_uyg.csprojAssemblyReference.cache
+C:\Users\SeFiK\Desktop\c# ve sql\Projeler\Döviz_uyg\Döviz_uyg\obj\Debug\Döviz_uyg.Form1.resources
+C:\Users\SeFiK\Desktop\c# ve sql\Projeler\Döviz_uyg\Döviz_uyg\obj\Debug\Döviz_uyg.Properties.Resources.resources
+C:\Users\SeFiK\Desktop\c# ve sql\Projeler\Döviz_uyg\Döviz_uyg\obj\Debug\Döviz_uyg.csproj.GenerateResource.cache
+C:\Users\SeFiK\Desktop\c# ve sql\Projeler\Döviz_uyg\Döviz_uyg\obj\Debug\Döviz_uyg.csproj.CoreCompileInputs.cache
+C:\Users\SeFiK\Desktop\c# ve sql\Projeler\Döviz_uyg\Döviz_uyg\obj\Debug\Döviz_uyg.exe
+C:\Users\SeFiK\Desktop\c# ve sql\Projeler\Döviz_uyg\Döviz_uyg\obj\Debug\Döviz_uyg.pdb
+C:\Users\SeFiK\OneDrive\Masaüstü\eski c#\c# ve sql\Projeler\Form_Döviz_uyg\Döviz_uyg\bin\Debug\Döviz_uyg.exe.config
+C:\Users\SeFiK\OneDrive\Masaüstü\eski c#\c# ve sql\Projeler\Form_Döviz_uyg\Döviz_uyg\bin\Debug\Döviz_uyg.exe
+C:\Users\SeFiK\OneDrive\Masaüstü\eski c#\c# ve sql\Projeler\Form_Döviz_uyg\Döviz_uyg\bin\Debug\Döviz_uyg.pdb
+C:\Users\SeFiK\OneDrive\Masaüstü\eski c#\c# ve sql\Projeler\Form_Döviz_uyg\Döviz_uyg\obj\Debug\Döviz_uyg.csproj.AssemblyReference.cache
+C:\Users\SeFiK\OneDrive\Masaüstü\eski c#\c# ve sql\Projeler\Form_Döviz_uyg\Döviz_uyg\obj\Debug\Döviz_uyg.Form1.resources
+C:\Users\SeFiK\OneDrive\Masaüstü\eski c#\c# ve sql\Projeler\Form_Döviz_uyg\Döviz_uyg\obj\Debug\Döviz_uyg.Properties.Resources.resources
+C:\Users\SeFiK\OneDrive\Masaüstü\eski c#\c# ve sql\Projeler\Form_Döviz_uyg\Döviz_uyg\obj\Debug\Döviz_uyg.csproj.GenerateResource.cache
+C:\Users\SeFiK\OneDrive\Masaüstü\eski c#\c# ve sql\Projeler\Form_Döviz_uyg\Döviz_uyg\obj\Debug\Döviz_uyg.csproj.CoreCompileInputs.cache
+C:\Users\SeFiK\OneDrive\Masaüstü\eski c#\c# ve sql\Projeler\Form_Döviz_uyg\Döviz_uyg\obj\Debug\Döviz_uyg.exe
+C:\Users\SeFiK\OneDrive\Masaüstü\eski c#\c# ve sql\Projeler\Form_Döviz_uyg\Döviz_uyg\obj\Debug\Döviz_uyg.pdb
